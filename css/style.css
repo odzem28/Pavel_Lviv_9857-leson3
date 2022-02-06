@@ -1,0 +1,55 @@
+body {
+	color: rgb(78, 204, 53);
+	background-color: rgb(211, 247, 211);
+}
+h1 {
+	color: red;
+}
+.header li {
+	color: rgb(94, 17, 104);
+}
+header a {
+	color: rgb(167, 109, 233);
+}
+.text {
+	color: black;
+}
+.main-header-block2 {
+	color: blue;
+}
+.main-header-block2 > div {
+	color: cadetblue;
+}
+h2 {
+	color: rgb(119, 69, 121);
+}
+h3 {
+	color: rgb(211, 125, 197);
+}
+li {
+	color: rgb(70, 58, 241);
+}
+li li {
+	color: rgba(129, 129, 233, 0.842);
+}
+div {
+	color: black;
+}
+div.text {
+	color: brown;
+}
+div div {
+	color: grey;
+}
+mark {
+	color: black;
+}
+div p a {
+	color: chocolate;
+}
+footer a {
+	color: red;
+}
+footer > a {
+	color: green;
+}
